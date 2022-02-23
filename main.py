@@ -55,4 +55,4 @@ async def on_ready():
 
 # ------------------------ RUN ------------------------ # 
 
-bot.run(ODg5NjgwOTg4NDkyNDE1MDM3.YUkx_Q.LePBYBcArLmTXgK1GbOc_9msozE)
+bot.run(ODg5NjgwOTg4NDkyNDE1MDM3.YUkx_Q.b9La9Zv8rOb_PkcJhUG9IVRgjMs)
