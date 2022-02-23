@@ -2,3 +2,6 @@ DOWNLOADS/
 __pycache__/
 Cogs/__pycache__/
 main.py
+!dir
+dir/*
+!dir/file3
