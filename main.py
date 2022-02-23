@@ -55,4 +55,4 @@ async def on_ready():
 
 # ------------------------ RUN ------------------------ # 
 
-bot.run(process.env.token)
+bot.run(configuration.token)
